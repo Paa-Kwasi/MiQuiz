@@ -1,3 +1,4 @@
+
 # MiQuiz
 
 App Name: MiQuiz
@@ -13,3 +14,5 @@ Login Screen: This screen has AccountingBox logo, username and password fields t
 Questions Screen: Username passed from the login screen, number of questions attempted and score out of total score available are displayed at the top of the screen. The screen has ten (10) scrollable questions. As a user attempts a question, the number of questions attempted is updated. and toast message inform the user whether the selected answer is the correct answer or not. When a user selects a correct answer, the score is updated.  This screen has two buttons – Reset button to clear all radio buttons and reset the number of questions attempted and score to zero for the user to start at fresh. – Result button to start the result screen.
 
 Result Screen: This screen thanks the user for taking the quiz and displays the total number of questions answered correctly and displays the result in percentage. The grade of the user is also displayed. A TextView displays a question asking the user if s/he wants to try again. This screen has two buttons – Yes button to start and reset the questions screen and No button to close the app.
+
+Visit https://drive.google.com/open?id=1bnWDgRMB5oxnyWjXrxNUvf8_BPmf_FpF to review the app.
