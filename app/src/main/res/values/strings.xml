@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">MiQuiz</string>
+
+    <string name="qtn_1">Q1. Accounting entries involve a minimum of how many accounts? </string>
+    <string name="qtn_1_ans_A">One</string>
+    <string name="qtn_1_ans_B">Two</string>
+    <string name="qtn_1_ans_C">Three</string>
+
+    <string name="qtn_2">Q2. The financial statement that reports the revenues and expenses for a period of time such as a year or a month is the ....? </string>
+    <string name="qtn_2_ans_A">Balance Sheet </string>
+    <string name="qtn_2_ans_B">Income Statement </string>
+    <string name="qtn_2_ans_C">Statement Of Cash Flows </string>
+
+    <string name="qtn_3">Q3. The financial statement that reports the assets, liabilities, and stockholders (owners) equity at a specific date is the ..... </string>
+    <string name="qtn_3_ans_A">Balance Sheet</string>
+    <string name="qtn_3_ans_B">Income Statement</string>
+    <string name="qtn_3_ans_C">Statement Of Cash Flows</string>
+
+    <string name="qtn_4">Q4. Under the accrual basis of accounting, revenues are reported in the accounting period when the ..... </string>
+    <string name="qtn_4_ans_A">Cash is received </string>
+    <string name="qtn_4_ans_B">Service or goods have been delivered </string>
+    <string name="qtn_4_ans_C">Service or goods have been planned</string>
+
+    <string name="qtn_5">Q5. Resources owned by a company (such as cash, accounts receivable, vehicles) are reported on the balance sheet and are referred to as .... </string>
+    <string name="qtn_5_ans_A">Assets</string>
+    <string name="qtn_5_ans_B">Liabilities</string>
+    <string name="qtn_5_ans_C">Equity</string>
+
+    <string name="qtn_6">Q6. Obligations (amounts owed) are reported on the balance sheet and are referred to as .... </string>
+    <string name="qtn_6_ans_A">Assets</string>
+    <string name="qtn_6_ans_B">Liabilities</string>
+    <string name="qtn_6_ans_C">Equity</string>
+
+    <string name="qtn_7">Q7. Unearned Revenues is what type of account?</string>
+    <string name="qtn_7_ans_A">Assets</string>
+    <string name="qtn_7_ans_B">Liabilities</string>
+    <string name="qtn_7_ans_C">Equity</string>
+
+    <string name="qtn_8">Q8. Prepaid insurance is reported as an __________ on a company balance sheet.</string>
+    <string name="qtn_8_ans_A">Assets</string>
+    <string name="qtn_8_ans_B">Liabilities</string>
+    <string name="qtn_8_ans_C">Equity</string>
+
+    <string name="qtn_9">Q9. The first section of the statement of cash flows is the __________ activities. </string>
+    <string name="qtn_9_ans_A">Operating</string>
+    <string name="qtn_9_ans_B">Investing</string>
+    <string name="qtn_9_ans_C">Financing</string>
+
+    <string name="qtn_10">Q10. A loan obtained will be presented under __________ activities. </string>
+    <string name="qtn_10_ans_A">Operating</string>
+    <string name="qtn_10_ans_B">Investing</string>
+    <string name="qtn_10_ans_C">Financing</string>
+</resources>
